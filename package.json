@@ -1,0 +1,19 @@
+{
+  "name": "github-bot",
+  "version": "1.0.0",
+  "description": "coolest thing you will ever see",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamkrish001/github-bot.git"
+  },
+  "author": "krish bhurtel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamkrish001/github-bot/issues"
+  },
+  "homepage": "https://github.com/iamkrish001/github-bot#readme"
+}
